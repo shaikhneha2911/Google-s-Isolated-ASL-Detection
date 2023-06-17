@@ -1,4 +1,6 @@
 # Google-s-Isolated-ASL-Detection
+ <img src="Screenshot 2023-06-16 at 12.56.24 PM.png">
+
 - The ability to communicate through sign language is essential for many people who are
 deaf or hard of hearing, but current Isolated Sign Language Recognition (ISLR) technologies
 often require specialized equipment or sensors, limiting their usefulness and accessibility.
